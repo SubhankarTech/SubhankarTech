@@ -1,88 +1,135 @@
-<h1 align="center">Hi 👋, I'm Subhankar</h1>
+# 👋 Hi, I'm Subhankar Mahapatra
 
-<h3 align="center">
-  MERN Stack Developer | Full Stack Developer
-</h3>
+<h3 align="center">🚀 MERN Stack Developer | Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Passionate+about+Web+Development;Always+Learning+New+Things" />
-
-## BANNER SECTION
-</p>
-<p align="center">
-  <img src="banner.png" width="100%" />
-</p>
-
-
-## 👨‍💻 About Me
-
-- 🔭 I'm currently working on MERN Stack Projects.
-- 🌱 I'm learning Advanced React and Node.js.
-- 💻 Interested in Full Stack Web Development.
-- 🎯 My goal is to become a professional Software Developer.
-- 📫 How to reach me: your-email@example.com
-- ⚡ Fun fact: I love learning new technologies.
-
-## 🚀 Languages and Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nodejs,express,mongodb,mysql,git,github,vscode" />
-</p>
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Applications;MERN+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Turning+Ideas+Into+Reality" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="banner.png" width="100%" alt="SubhankarDev Banner" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://github.com/SubhankarDev"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
+---
 
-## 🚀 My Featured Projects
+## 💫 About Me
 
-### 🛒 ShopKart – E-Commerce Website
+I'm a passionate **Full Stack Developer** who enjoys building modern, responsive, and user-friendly web applications.
 
-- Full-stack MERN application.
-- User authentication and authorization.
-- Product management and shopping cart.
-- MongoDB database integration.
+- 🔭 Currently working on **MERN Stack Projects**
+- 🌱 Learning **Advanced React.js and Node.js**
+- 💻 Interested in **Full Stack Web Development**
+- 🛠️ Building real-world projects and improving my coding skills
+- 🎯 Goal: Become a skilled and professional Software Developer
+- ⚡ Fun fact: I love exploring new technologies and turning ideas into reality
 
-**Technologies:** React, Node.js, Express.js, MongoDB.
+---
 
-[View Project](YOUR_PROJECT_URL)
+## 🧑‍💻 Tech Stack & Tools
 
-[View Source Code](YOUR_REPOSITORY_URL)
-
-## 🌐 Connect With Me
-
-<p align="left">
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="YOUR_GITHUB_URL">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
+### 🎨 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,bootstrap,tailwind" />
 </p>
 
-## 👀 Profile Visitors
+### ⚙️ Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
 
-![Visitors](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge)
+### 🔧 Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+</p>
 
-## 🏆 GitHub Trophies
+---
+
+## 🚀 Featured Project
+
+### 🛒 ShopKart – MERN Stack E-Commerce Application
+
+A full-stack e-commerce application designed to provide a smooth online shopping experience.
+
+**✨ Key Features**
+- 🔐 User Authentication & Authorization
+- 🛍️ Product Listing and Management
+- 🛒 Shopping Cart Functionality
+- 📦 Order Management
+- 🗄️ MongoDB Database Integration
+- 📱 Responsive User Interface
+
+**🧰 Technologies Used**
+
+`React.js` `Node.js` `Express.js` `MongoDB` `JavaScript`
+
+<p>
+  <a href="YOUR_PROJECT_URL">
+    <img src="https://img.shields.io/badge/Live_Demo-Visit_Project-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="YOUR_REPOSITORY_URL">
+    <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=6" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SubhankarDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhankarDev&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=SubhankarDev&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SubhankarDev/SubhankarDev/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SubhankarDev&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional_Network-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/SubhankarDev">
+    <img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Gmail-Send_Me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SubhankarDev&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge" />
+</p>
+
+<h3 align="center">💙 Thanks for visiting my profile!</h3>
+
+<p align="center">
+  <i>"Code. Learn. Build. Repeat."</i>
 </p>

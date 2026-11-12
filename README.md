@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Passionate+about+Web+Development;Always+Learning+New+Things" />
 
-# BANNER SECTION
+## BANNER SECTION
 </p>
 <p align="center">
   <img src="banner.png" width="100%" />
